@@ -204,7 +204,7 @@ footer a:hover{text-decoration:underline}
 <header>
   <h1>eduCLaaS HR Analytics Dashboards</h1>
   <p>Created by Azlan · Lithan Academy</p>
-  <div class="disclaimer">⚠️ For demo purposes only. No actual records used.</div>
+  <div class="disclaimer">⚠️ For demonstration purposes only. No real data is used.</div>
 </header>
 
 <section class="gallery">

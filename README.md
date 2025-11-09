@@ -95,7 +95,7 @@ footer a:hover{text-decoration:underline;}
 <body>
 <header>
   <h1>eduCLaaS HR Analytics Dashboards</h1>
-  <p>Created by Azlan · Lithan Academy</p>
+  <p>Created by Azlan</p>
   <div class="disclaimer">⚠️ Demo visuals for portfolio – no real data used.</div>
 </header>
 
@@ -127,7 +127,7 @@ footer a:hover{text-decoration:underline;}
   <div class="card" data-index="3">
     <img src="https://github.com/mohamadazlanwork/Logoall/blob/main/Dashboard%204.jpg?raw=true" alt="Dashboard 4">
     <div class="card-info" data-color="yellow">
-      <p>Highlights CCP category distributions (Lithan Graduate, Employer OJT, Train & Place) and compares monthly totals from July to October 2025 between Own Effort and Talent sources.</p>
+      <p>Highlights CCP category distributions (Graduate, Employer OJT, Train & Place) and compares monthly totals from July to October 2025 between Own Effort and Talent sources.</p>
     </div>
     <div class="caption">Dashboard 4 – CCP Category Trend</div>
   </div>
@@ -182,7 +182,7 @@ footer a:hover{text-decoration:underline;}
   <img id="lbImage" src="" alt="Large view">
 </div>
 
-<footer>© 2025 Lithan Academy Demo Gallery | Created by Azlan</footer>
+<footer>© 2025 Demo Gallery | Created by Azlan</footer>
 
 <script>
 document.addEventListener("DOMContentLoaded",()=>{
